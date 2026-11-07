@@ -19,6 +19,3 @@ Berikut ini adalah Koleksi yang dimiliki:
 
 ---
 *Powered by GitHub Pages*
-
----
-*Powered by GitHub Pages*
