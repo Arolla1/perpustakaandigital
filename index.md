@@ -15,6 +15,10 @@ Berikut ini adalah Koleksi yang dimiliki:
 9. [Pengelolaan Arsip Elektronik di Era Digital (PATI 8)](artikel/Pengelolaan Arsip Elektronik di Era Digital (PATI 8).pdf) – Dellia Santi Wulandari & Ismaya (2023)
 10. [Pengelolaan Arsip Elektronik di Era Digital Tinjauan Literatur (PATI 9)](artikel/Pengelolaan Arsip Elektronik di Era Digital Tinjauan Literatur (PATI 9).pdf) – Adhitya Farhan (2023)
 11. [Buku Pengantar Arsip Elektronik (PATI 10)](ebook/Buku Pengantar Arsip Elektronik (PATI 10).pdf) – Universitas Terbuka (2020)
+12. [UGC Transforming Libraries through Information Technology](artikel/UGC Transforming Libraries through Information Technology.pdf) – Arolla Ramadhani (2026)
+
+---
+*Powered by GitHub Pages*
 
 ---
 *Powered by GitHub Pages*
